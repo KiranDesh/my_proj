@@ -1,0 +1,4 @@
+print('Adaboost Algorithm')
+print('XGBoost Algorithm')
+print('RandomForest Algorithm')
+print('Market-Basket Algorithm')
